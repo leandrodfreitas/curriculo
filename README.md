@@ -1,6 +1,6 @@
 # Leandro de Freitas Rodrigues
 
-<h2><b>Conhecimentos Técnicos / Atividades Desenvolvidas:</b></h2> 
+<b>Conhecimentos Técnicos / Atividades Desenvolvidas:</b>
 
 •	Sólidos conhecimentos em: HTML5, CSS3, XHTML, CSS, Tableless e padrões web.<br>
 •	Conhecimento avançado nos seguintes softwares: Photoshop, Fireworks, Dreamweaver, Notepad++, Sublime Text 2, Brackets, Flash, Sharepoint Designer 2007/2010/2013, Axure e  Visual Studio 2013.<br>
